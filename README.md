@@ -16,3 +16,6 @@
 [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)  
 [papers-we-love](https://github.com/papers-we-love/papers-we-love)  
 [free-programming-books](https://github.com/vhf/free-programming-books)  
+[Front-end-Developer-Interview-Question](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  
+
+[course-papers](http://www.andrew.cmu.edu/course/15-749/READINGS/required/)  
